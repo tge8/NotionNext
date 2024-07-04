@@ -148,7 +148,7 @@ const GlobalHead = props => {
       )}
 
       {ANALYTICS_BUSUANZI_ENABLE && (
-        <meta name='referrer' content='no-referrer-when-downgrade' />
+        <meta name='referrer' content='no-referrer' />
       )}
       {meta?.type === 'Post' && (
         <>
