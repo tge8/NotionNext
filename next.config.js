@@ -89,6 +89,8 @@ const nextConfig = {
       'source.unsplash.com',
       'p1.qhimg.com',
       'webmention.io',
+      'gitee.com',
+      'pic.rf.gd',
       'ko-fi.com'
     ]
   },
